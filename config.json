@@ -1,0 +1,27 @@
+{
+    "ownerNumber": ["6282281657946@s.whatsapp.net","62856091885235@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ IkyyOfcོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/",
+    "botName": "IkyyBot-MDོ ",
+    "footer": "github.com/diki6969",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Ikyy.jpg",
+    "BotKey": "SGWN",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
